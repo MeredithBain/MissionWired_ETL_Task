@@ -1,0 +1,15 @@
+#Documentation for MissionWired_task_2
+### last updated 30 July 2021
+
+## Description
+This program takes a CSV file named "people" from MissionWired_task_1. It takes the date
+portion of the updated_dt datetime from "people" and creates a histogram of dates on which
+constituent accounts were acquired, with the date column named "acquisition_facts" and the 
+frequency column called "acquisitions".
+
+## Installation
+Make sure you have the "people" CSV file, which is the output of MissionWired_task_1,
+in the current directoy. Run MissionWired_task_1 before running this program. 
+
+## Contact
+For any questions on this program, please contact AUTHOR at EMAIL. 
