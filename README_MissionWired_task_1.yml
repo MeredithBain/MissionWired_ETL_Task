@@ -1,8 +1,8 @@
-#Documentation for MissionWired_task_1
+#Documentation for ETL_task_1
 ### last updated 30 July 2021
 
 ## Description
-This program joins 3 tables about an organization's consituents to yield a CSV file named "people", which 
+This program joins 3 tables about a hypothetical organization's consituents to yield a CSV file named "people", which 
 contains columns for each constituent's email address, date of their file creation, date of their file modification,
 the source of the constituent's account (google, facebook, organic, etc), and their email subscription status.
 
